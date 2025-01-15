@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+projeto desenvolvido na atividade 2 da unidade 11.
 
 ## Getting Started
 
